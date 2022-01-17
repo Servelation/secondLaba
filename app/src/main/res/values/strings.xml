@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">secondLaba</string>
+    <string name="main_title">Введите текст</string>
+    <string name="sample_text">Sample text</string>
+    <string name="main_button_text">Отправить</string>
+    <string name="second_act_title">Введенный текст:</string>
+    <string name="send_message">Отправить сообщение</string>
+</resources>
